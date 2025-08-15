@@ -12,6 +12,6 @@ Projects aligned to resume claims: EDA, automation, object detection tuning, NLP
 
 ### Streamlit Cloud (quick deploy)
 - App path for classifier:[ `05-Resume-Classifier/app/streamlit_app.py`](https://data-analytics-portfolio-m26nmxaxhx2qiyht7vnvm6.streamlit.app/)
-- App path for summarizer: `06-AI-Content-Summarizer/app/streamlit_app.py`
+- App path for summarizer: [`06-AI-Content-Summarizer/app/streamlit_app.py`](https://data-analytics-portfolio-iqkqvqkvsibp2w4dzj96m7.streamlit.app/)
 
 **Contact:** swapnajeettripathy@gmail.com
