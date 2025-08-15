@@ -1,0 +1,3 @@
+# per-project requirements inside each folder
+streamlit
+joblib
